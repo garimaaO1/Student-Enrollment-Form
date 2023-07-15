@@ -1,0 +1,10 @@
+.bg-color {
+    background-color: #eed38e;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
