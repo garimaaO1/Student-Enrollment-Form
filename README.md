@@ -13,7 +13,3 @@ It is a Student Enrollment Form that arranges the students's information such as
 - Cross-Platform Compatibility
 
 # Release History
-
-## JsonPowerDB
-
-### Version: 1.0
